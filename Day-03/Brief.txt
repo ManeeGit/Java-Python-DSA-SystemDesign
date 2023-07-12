@@ -1,0 +1,3 @@
+Day 03 - Python- Variables, DataTypes, Casting, Strings, Booleans, Operators done.
+
+Data Structures Start
