@@ -1,0 +1,12 @@
+Introduction to SD
+
+LLD 
+    - SOLID principle - KISS - DRY - YAGNI principle
+    - Design Patterns
+
+HLD 
+    - Process - Component Diagrams - Design a System - CAP Theorem
+
+N-alities 
+    - (Scalability , Availability , Reliability, Performance, Security, Fall Tolerance, Back-UP, Restore)
+
