@@ -1,0 +1,8 @@
+Day wise reports:
+==========================
+Day 01 - Git & GitHub
+Day 02 - Git & GitHub
+Day 03 - Python
+Day 04 - Health issues so resumed
+Day 05 - Health issues so resumed
+Day 06 - Python Components
