@@ -3,6 +3,10 @@ package Programming.Java;
 public class arrays {
   public static void main(String[] args){
     System.out.println("The concept of Arrays");
+    //String Array :
+    String[] text= {"Manu","Madhu","Maneesh"};
+    System.out.println(text[1]);
+
 
     //Integer Array
     int[] num = {1,2,3,4,5};
